@@ -1,0 +1,16 @@
+mail,subiect,mesaj
+a@a.ro,aaaaa,mama are mere
+c@a.to,bxnsbcsduh,regegdf dfg edgh
+xxx@xxx.ro,xxxx,xxxx
+xxx@xxx.ro,xxxx,xxxx
+yyy@y.ro,yyyy,yyyy yyy yyy
+aayyy@y.ro,aaayyyy,aaayyyy yyy yyy
+ajjjjayyy@y.ro,aaayjjjjyyy,aaayyyjjjjjjjjy yyy yyy
+ajjjjayyy@y.ro,aaayjjjjyyy,aaayyyjjjjjjjjy yyy yyy
+ajjjjayyy@y.ro,aaayjjjjyyy,aaayyyjjjjjjjjy yyy yyy
+ajjjjayyy@y.ro,aaayjjjjyyy,aaayyyjjjjjjjjy yyy yyy
+ajjjjayyy@y.ro,aaayjjjjyyy,aaayyyjjjjjjjjy yyy yyy
+ajjjjayyy@y.ro,aaayjjjjyyy,aaayyyjjjjjjjjy yyy yyy
+ajjjjayyy@y.ro,aaayjjjjyyy,aaayyyjjjjjjjjy yyy yyy
+ajjjjayyy@y.ro,aaayjjjjyyy,aaayyyjjjjjjjjy yyy yyy
+ajjjjayyy@y.ro,aaayjjjjyyy,aaayyyjjjjjjjjy yyy yyy
